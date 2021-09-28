@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Quartz-Raptail)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Quartz-Raptail&count_private=true&show_icons=true&theme=blue-green)
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz-Raptail&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Quartz-Raptail&layout=compact&theme=blue-green)
